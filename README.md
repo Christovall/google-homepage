@@ -15,6 +15,6 @@ General HTML/CSS tricks such as:
 On top of this I got to practice using git again which is always great. Also time management was a factor, caught myself spending too much time trying to get the styling perfect when I could've been moving onto other programming skills.
 
 Either way this was a fun project! More to come.
-''
+```
 To view:  https://christovall.github.io/google-homepage/
-''
+```
